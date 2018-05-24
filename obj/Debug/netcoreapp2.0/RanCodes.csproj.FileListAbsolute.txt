@@ -1,0 +1,11 @@
+C:\Users\Nadia\DojoCsharp\RanCodes\bin\Debug\netcoreapp2.0\RanCodes.deps.json
+C:\Users\Nadia\DojoCsharp\RanCodes\bin\Debug\netcoreapp2.0\RanCodes.runtimeconfig.json
+C:\Users\Nadia\DojoCsharp\RanCodes\bin\Debug\netcoreapp2.0\RanCodes.runtimeconfig.dev.json
+C:\Users\Nadia\DojoCsharp\RanCodes\bin\Debug\netcoreapp2.0\RanCodes.dll
+C:\Users\Nadia\DojoCsharp\RanCodes\bin\Debug\netcoreapp2.0\RanCodes.pdb
+C:\Users\Nadia\DojoCsharp\RanCodes\obj\Debug\netcoreapp2.0\RanCodes.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\DojoCsharp\RanCodes\obj\Debug\netcoreapp2.0\RanCodes.AssemblyInfoInputs.cache
+C:\Users\Nadia\DojoCsharp\RanCodes\obj\Debug\netcoreapp2.0\RanCodes.AssemblyInfo.cs
+C:\Users\Nadia\DojoCsharp\RanCodes\obj\Debug\netcoreapp2.0\RanCodes.dll
+C:\Users\Nadia\DojoCsharp\RanCodes\obj\Debug\netcoreapp2.0\RanCodes.pdb
+C:\Users\Nadia\DojoCsharp\RanCodes\obj\Debug\netcoreapp2.0\RanCodes.csprojAssemblyReference.cache
